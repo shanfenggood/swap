@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
-  "homepage": ".",
+  "name": "swap",
+  "description": "Swap test",
+  "homepage": "https://shanfenggood.github.io/swap",
   "main": "dist/interface.js",
   "module": "dist/interface.esm.js",
   "types": "dist/index.d.ts",
